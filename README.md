@@ -2,7 +2,7 @@
 
 This project is a part of Operating System (Lab) lectured by JYY (jyy@jyywiki.cn)
 
-see [jyywiki.cn/OS/2024](jyywiki.cn/OS/2024) for more information
+see [jyywiki.cn/OS/2024](https://jyywiki.cn/OS/2024) for more information
 
 ## 创建 coroutine 和栈切换时机两种思路，以及 main 函数协程化 hack
 
@@ -32,4 +32,4 @@ CO\_RUN 状态的协程，而不是看作特殊的执行流。
 
 3. 随机访问
 
-索引跳表 (Indexable skiplist) 是不错的选择.
+索引跳表 ([Indexable skiplist](https://en.wikipedia.org/wiki/Skip_list#Indexable_skiplist)) 是不错的选择.
